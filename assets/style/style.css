@@ -1,0 +1,13 @@
+/* BASIC STYLES HERE */
+
+
+.list-adjust {
+  max-height: 80vh;
+  overflow-y: scroll;
+}
+
+.img-adjust {
+  height: 30vh;
+  width: 30vw;
+  object-fit: cover;
+}
